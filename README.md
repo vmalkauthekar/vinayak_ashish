@@ -1,4 +1,4 @@
 # maven-spring-web-project
 Maven + Spring MVC Web Project Example
 
-Test change
+Project created for Amdocs Pune CP-DOF Training
